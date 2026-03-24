@@ -1,5 +1,5 @@
 # Импортируем наши функции из модуля masks пакета src
-from src.masks import get_mask_card_number, get_mask_account
+from src.masks import get_mask_account, get_mask_card_number
 
 if __name__ == "__main__":
     # Пример номеров для проверки
